@@ -5,8 +5,8 @@
   "keywords": ["laravel", "admin", "administrator", "crud"],
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/LaravelRUS/SleepingOwlAdmin/issues",
-    "source": "https://github.com/LaravelRUS/SleepingOwlAdmin"
+    "issues": "https://github.com/labapawel/SleepingOwlAdmin/issues",
+    "source": "https://github.com/labapawel/SleepingOwlAdmin"
   },
   "authors": [
     {
