@@ -12,6 +12,9 @@ return [
         'wrong-username' => 'Niepoprawna nazwa użytkownika',
         'wrong-password' => 'lub hasło',
     ],
+    'model'=>[
+        'edit'=>'Edycja',
+    ],
     'ckeditor' => [
         'upload'        => [
             'success' => 'Plik został załadowany: \\n- Rozmiar: :size kb \\n- szerokość/wysokość: :width x :height',
